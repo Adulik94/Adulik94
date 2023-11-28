@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/@apaloyan" target="blank"><img src="https://img.shields.io/twitter/follow/@apaloyan?logo=twitter&style=for-the-badge" alt="@apaloyan" /></a> </p>
 
-- 🔭 I’m currently working on [mdsave](https://www.mdsave.com/)
+- 🔭 I’m currently working :)
 
 - 💬 Ask me about **anything :)**
 
-- 📫 How to reach me **arusyakpaloyan@tidepoollabs.com**
+- 📫 How to reach me **arusyakpaloyan@gmail.com**
 
 - ⚡ Fun fact **I learn quickly and forget quickly**
 
